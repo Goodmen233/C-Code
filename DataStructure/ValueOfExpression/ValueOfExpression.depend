@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602722412 source:d:\c++\workspace\valueofexpression\main.cpp
+	<iostream>
+	<String.h>
+

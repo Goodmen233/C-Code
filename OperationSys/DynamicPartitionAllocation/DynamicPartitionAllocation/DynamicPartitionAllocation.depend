@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636591748 source:c:\users\ccb\onedrive\software\c++\operationsys\dynamicpartitionallocation\dynamicpartitionallocation\main.cpp
+	<iostream>
+	<fstream>
+

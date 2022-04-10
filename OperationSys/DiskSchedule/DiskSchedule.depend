@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637803662 source:c:\users\ccb\onedrive\software\c++\operationsys\diskschedule\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
