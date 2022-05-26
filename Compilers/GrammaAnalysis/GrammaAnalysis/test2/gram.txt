@@ -1,0 +1,5 @@
+id num + - * / mod ( ) ; # $
+L->E;L|$
+E->E+T|E-T|T
+T->T*F|T/F|TmodF|F
+F->(E)|id|num

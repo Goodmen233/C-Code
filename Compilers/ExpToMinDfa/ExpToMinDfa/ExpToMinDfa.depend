@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1652348698 source:c:\users\ccb\documents\tempproject\exptomindfa\exptomindfa\main.cpp
+	<iostream>
+	<typeinfo>
+	<stdio.h>
+	<iomanip>
+	<set>
+	<vector>
+	<queue>
+	<map>
+	<string>
+

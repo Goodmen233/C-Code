@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1652360963 source:c:\users\ccb\documents\tempproject\grammaanalysis\grammaanalysis\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<list>
+	<string>
+	<vector>
+	<map>
+	<set>
+	<cctype>
+	<algorithm>
+	<iomanip>
+	<stack>
+

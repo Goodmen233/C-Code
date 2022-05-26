@@ -1,0 +1,3 @@
+# $ a b c d
+S->Aa|b
+A->Ac|Aad|bd|$
